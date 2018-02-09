@@ -4,7 +4,7 @@
 
 ## TS;NTR
 
-Release early.  Realease often.  
+Release early.  Release often.  
 We do!  
 You're not likely to have ever seen a project with such regular release discipline.  
 We're proud. 
