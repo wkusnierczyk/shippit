@@ -515,3 +515,4 @@ We're shipping, we're shipping...!
 * Reallyase 499 [Elsie Walton, 2018.02.09-16:15:57]
 * Reallyase 500 [Frances Peterson, 2018.02.09-16:17:35]
 * Reallyase 501 [Lynne Vega, 2018.02.09-16:19:38]
+* Reallyase 502 [Bernadette Ball, 2018.02.09-16:21:43]
