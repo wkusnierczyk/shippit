@@ -2,7 +2,7 @@
 
 echo "Shipping shippit..."
 
-sleep 120
+sleep 60
 
 cd shippit
 git push
