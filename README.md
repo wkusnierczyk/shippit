@@ -121,3 +121,4 @@ We're shipping, we're shipping...!
 * Reallyase 105 [Kellie Fisher, 2018.02.09-04:59:34]
 * Reallyase 106 [Guillermo Ford, 2018.02.09-05:01:08]
 * Reallyase 107 [Freda Perez, 2018.02.09-05:03:00]
+* Reallyase 108 [Cecil Bass, 2018.02.09-05:04:53]
