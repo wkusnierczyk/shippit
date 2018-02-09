@@ -60,3 +60,4 @@ We're shipping, we're shipping...!
 * Reallyase 44 [Kevin Roberson, 2018.02.09-03:26:06]
 * Reallyase 45 [Ginger Mullins, 2018.02.09-03:27:54]
 * Reallyase 46 [Lorena Hicks, 2018.02.09-03:29:57]
+* Reallyase 47 [Joan Carpenter, 2018.02.09-03:31:25]
