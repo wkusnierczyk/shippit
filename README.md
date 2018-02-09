@@ -166,3 +166,4 @@ We're shipping, we're shipping...!
 * Reallyase 150 [Bill Houston, 2018.02.09-06:16:44]
 * Reallyase 151 [Bridget Mills, 2018.02.09-06:18:14]
 * Reallyase 152 [Garrett Gross, 2018.02.09-06:19:45]
+* Reallyase 153 [Rosemary Harrison, 2018.02.09-06:21:15]
