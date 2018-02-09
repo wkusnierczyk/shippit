@@ -593,3 +593,4 @@ We're shipping, we're shipping...!
 * Reallyase 577 [Virginia Gonzalez, 2018.02.09-18:36:13]
 * Reallyase 578 [Rhonda Woods, 2018.02.09-18:37:48]
 * Reallyase 579 [Jerome Vaughn, 2018.02.09-18:39:20]
+* Reallyase 580 [Oscar Davidson, 2018.02.09-18:40:54]
