@@ -1,0 +1,8 @@
+before_script:
+  - ./'pullit!.sh'
+
+script:
+  - ./'reallyaseit!.sh'
+
+after_script:
+  - ./'shippit!.sh'
