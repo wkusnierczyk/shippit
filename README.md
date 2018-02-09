@@ -123,3 +123,4 @@ We're shipping, we're shipping...!
 * Reallyase 107 [Freda Perez, 2018.02.09-05:03:00]
 * Reallyase 108 [Cecil Bass, 2018.02.09-05:04:53]
 * Reallyase 109 [Otis Shaw, 2018.02.09-05:06:45]
+* Reallyase 110 [Armando Griffin, 2018.02.09-05:08:14]
