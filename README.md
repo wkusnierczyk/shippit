@@ -74,3 +74,4 @@ We're shipping, we're shipping...!
 * Reallyase 58 [Sonya Rhodes, 2018.02.09-03:48:15]
 * Reallyase 59 [Charles Glover, 2018.02.09-03:49:59]
 * Reallyase 60 [Walter Stevens, 2018.02.09-03:51:27]
+* Reallyase 61 [Duane Lucas, 2018.02.09-03:52:55]
