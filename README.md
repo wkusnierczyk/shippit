@@ -19,3 +19,4 @@ We're shipping, we're shipping...!
 * Reallyase 3 [Cary Gardner, 2018.02.09-01:20:35]
 * Reallyase 4 [Connie Schwartz, 2018.02.09-01:23:20]
 * Reallyase 5 [Terry Wright, 2018.02.09-01:25:56]
+* Reallyase 6 [Darrel Washington, 2018.02.09-02:24:41]
