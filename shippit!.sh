@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 
+echo "Shipping shippit..."
+
 cd shippit
 git push
-git push --tags
 
-sleep 300
+echo "Shipped"
+
+sleep 120
