@@ -21,3 +21,4 @@ We're shipping, we're shipping...!
 * Reallyase 5 [Terry Wright, 2018.02.09-01:25:56]
 * Reallyase 6 [Darrel Washington, 2018.02.09-02:24:41]
 * Reallyase 7 [Rogelio Shelton, 2018.02.09-02:27:30]
+* Reallyase 8 [Gilbert Bennett, 2018.02.09-02:29:04]
