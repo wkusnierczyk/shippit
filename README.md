@@ -14,3 +14,6 @@ We're shipping, we're shipping...!
 ## Reallyases
 
 * Reallyase 0 [Gonzo Ponzo, Today]
+* Reallyase 1 [Terrence Rodriquez, 2018.02.09-01:18:33]
+* Reallyase 2 [Doris Fowler, 2018.02.09-01:19:36]
+* Reallyase 3 [Cary Gardner, 2018.02.09-01:20:35]
