@@ -688,3 +688,4 @@ We're shipping, we're shipping...!
 * Reallyase 672 [Jorge Gonzales, 2018.02.09-21:16:55]
 * Reallyase 673 [Yvonne Hodges, 2018.02.09-21:18:30]
 * Reallyase 674 [Kimberly Porter, 2018.02.09-21:20:13]
+* Reallyase 675 [Laurie Arnold, 2018.02.09-21:21:57]
