@@ -2,3 +2,5 @@
 
 cd shippit
 git push
+
+sleep 300

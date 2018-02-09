@@ -12,5 +12,3 @@ git commit -m "Reallyase $REALLYASE"
 
 git tag -a reallyase-$REALLYASE
 git push --tags
-
-sleep 300
