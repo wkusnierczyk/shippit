@@ -9,6 +9,4 @@ echo "* Reallyase $REALLYASE [$NAME, $(date +%Y.%m.%d-%H:%M:%S)]" >> README.md
 
 git add README.md
 git commit -m "Reallyase $REALLYASE"
-
 git tag -a reallyase-$REALLYASE
-git push --tags

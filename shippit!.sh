@@ -2,5 +2,6 @@
 
 cd shippit
 git push
+git push --tags
 
 sleep 300
