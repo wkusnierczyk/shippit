@@ -1002,3 +1002,4 @@ We're shipping, we're shipping...!
 * Reallyase 986 [Opal Rose, 2018.02.10-05:33:05]
 * Reallyase 987 [Velma Burton, 2018.02.10-05:34:34]
 * Reallyase 988 [Alyssa Johnston, 2018.02.10-05:36:00]
+* Reallyase 989 [Joanne Rios, 2018.02.10-05:38:30]
