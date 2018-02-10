@@ -1124,3 +1124,4 @@ or follow up on the most recent trends in the field:
 * Reallyase 1092 [Sheryl Scott, 2018.02.10-08:40:58]
 * Reallyase 1093 [Cindy Pierce, 2018.02.10-08:43:44]
 * Reallyase 1094 [Hannah Perez, 2018.02.10-08:44:15]
+* Reallyase 1095 [Darrin Fox, 2018.02.10-08:44:47]
