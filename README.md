@@ -1121,3 +1121,4 @@ or follow up on the most recent trends in the field:
 * Reallyase 1089 [Laverne Aguilar, 2018.02.10-08:05:38]
 * Reallyase 1090 [Janie Sutton, 2018.02.10-08:07:09]
 * Reallyase 1091 [Shane Mitchell, 2018.02.10-08:27:54]
+* Reallyase 1092 [Sheryl Scott, 2018.02.10-08:40:58]
