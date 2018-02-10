@@ -11,6 +11,22 @@ We're proud.
 
 We're shipping, we're shipping...!
 
+## About
+
+Inspired by the awesome [`nocode`](https://github.com/kelseyhightower/nocode) project, we've assembled a team of passionate, highly motivated engineers, and overnight we collaboratively pushed out over 1000 releases.
+
+For further reference on this fascinating subject, consider:
+
+* [Release early, release often](https://en.wikipedia.org/wiki/Release_early,_release_often)
+* [Release early, release often](https://about.gitlab.com/2016/07/21/release-early-release-often)
+* [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html)
+* [Release early, release often](https://haacked.com/archive/2011/04/20/release-early-and-often.aspx)
+* [Release early, release often](http://herdingcats.typepad.com/my_weblog/2015/03/release-early-and-release-often.html)
+
+or follow up on the most recent trends in the field:
+
+* [Release early, release often](http://bit.ly/2EzjBne)
+
 ## Reallyases
 
 * Reallyase 0 [Gonzo Ponzo, Today]
