@@ -11,5 +11,6 @@ echo "Reallyasing $REALLYASE by $NAME..."
 
 git add README.md
 git commit -m "Reallyase $REALLYASE"
+git tag -a "v$REALLYASE" -m "v$REALLYASE" 
 
 echo "Reallyased"
