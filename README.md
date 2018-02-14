@@ -27,6 +27,10 @@ or follow up on the most recent trends in the field:
 
 * [Release early, release often](http://bit.ly/2EzjBne)
 
+## Acknowledgments
+
+Random thanks to [anonymous volunteers](http://random-name-generator.info) for invaluable contributions.
+
 ## Reallyases
 
 * Reallyase 0 [Gonzo Ponzo, Today]
