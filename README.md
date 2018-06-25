@@ -1,6 +1,6 @@
 # shippit
 
-[![Build Status](https://travis-ci.com/wkusnierczyk/shippit.svg?token=b9xxBNxAZz3Wuv8J8CAj&branch=master)](https://travis-ci.com/wkusnierczyk/shippit)
+[![Build Status](https://travis-ci.com/wkusnierczyk/shippit.svg?token=b9xxBNxAZz3Wuv8J8CAj&branch=master)](https://travis-ci.com/wkusnierczyk/shippit) [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1949/badge)](https://bestpractices.coreinfrastructure.org/projects/1949)
 
 ## TS;NTR
 
